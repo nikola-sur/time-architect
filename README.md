@@ -1,3 +1,3 @@
 # Time Architect
 
-Craft your schedule to achieve peak productivity. Work in progress.
+[Work in progress.] Craft your schedule to achieve peak productivity.
